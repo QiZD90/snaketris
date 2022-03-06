@@ -1,0 +1,10 @@
+.parent {
+	text-align: center;
+}
+
+.child {
+	display: inline-block;
+	border: 1px solid black;
+	padding: 10px;
+	vertical-align: top;
+}
